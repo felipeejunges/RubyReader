@@ -1,1 +1,1 @@
- Apenas Executar: ruby solution.rb 
+ruby solution.rb 
